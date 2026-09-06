@@ -1,4 +1,4 @@
-# 📊 PR. 1 – Fundamental Booster | Excel Project
+# 📊 FUNDAMENTAL BOOSTER | EXCEL PROJECT
 
 > 🚀 A practical Excel project demonstrating fundamental and intermediate Excel skills using Employee, Sales, and Student datasets.
 
